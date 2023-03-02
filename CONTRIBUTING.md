@@ -1,6 +1,6 @@
-# **Contribuer à [Nom du projet]**
+# **Contribuer à ProjetGit-TemplatePortfolio**
 
-Nous sommes ravis que vous souhaitiez contribuer à [Nom du projet] ! Avant de commencer, veuillez lire attentivement les directives suivantes pour contribuer à ce projet.
+Nous sommes ravis que vous souhaitiez contribuer à ProjetGit-TemplatePortfolio ! Avant de commencer, veuillez lire attentivement les directives suivantes pour contribuer à ce projet.
 
 ## **Comment contribuer**
 
@@ -9,7 +9,7 @@ Nous sommes ravis que vous souhaitiez contribuer à [Nom du projet] ! Avant de c
 3. Une fois que vous avez réservé un issue, créez une nouvelle branche à partir de la branche **`main`** avec un nom qui décrit clairement la fonctionnalité ou le bogue que vous allez résoudre. Par exemple, si vous travaillez sur un bogue qui empêche la fonctionnalité de connexion, vous pouvez nommer la branche **`fix-login-bug`**.
 4. Travaillez sur votre fonctionnalité ou bogue dans la nouvelle branche que vous avez créée. Assurez-vous de respecter les [bonnes pratiques de codage](https://github.com/ssydney77/ProjetGit-TemplatePortfolio/blob/main/CODE_OF_CONDUCT.md) et de tester votre code avant de le soumettre.
 5. Lorsque vous avez terminé, créez une Pull Request (PR) vers la branche **`main`** en fournissant une description claire et concise de votre travail accompli et en mentionnant l'issue correspondant. Le mainteneur du projet examinera votre PR et vous fournira des commentaires si nécessaire.
-6. Si tout est correct, votre PR sera fusionnée dans la branche **`main`**. Félicitations, vous avez contribué à [Nom du projet] !
+6. Si tout est correct, votre PR sera fusionnée dans la branche **`main`**. Félicitations, vous avez contribué à ProjetGit-TemplatePortfolio !
 
 ## **Bonnes pratiques pour contribuer**
 
@@ -19,4 +19,4 @@ Nous sommes ravis que vous souhaitiez contribuer à [Nom du projet] ! Avant de c
 - Respectez les décisions des mainteneurs du projet.
 - Soyez respectueux envers les autres contributeurs et mainteneurs.
 
-Nous sommes impatients de travailler avec vous pour améliorer [Nom du projet] !
+Nous sommes impatients de travailler avec vous pour améliorer ProjetGit-TemplatePortfolio !
