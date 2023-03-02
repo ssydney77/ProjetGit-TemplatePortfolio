@@ -1,9 +1,11 @@
 ---
 name: Pull request
-about: Checklist des choses a faire avant le merge
+about: Description et checklist des choses à faire avant le merge
 title: ''
-labels: ''
+body: ''
+tasks: ''
 assignees: ''
+labels: ''
 ---
 
 ## Description
