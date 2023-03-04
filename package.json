@@ -4,7 +4,8 @@
   "description": "Un template de portfolio simple en HTML, CSS et JavaScript.",
   "main": ".eslinterc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint public/html"
   },
   "repository": {
     "type": "git",
