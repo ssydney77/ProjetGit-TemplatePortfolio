@@ -15,6 +15,8 @@ git clone https://github.com/nom-du-repo.git
 ```
 
 Une fois le projet cloné, il suffit de vous rendre dans la partie "public > html" pour y retrouver les différentes version du template.
+Vous pouvez également vous rendre dans la partie " public > assets " pour y retrouver les fichiers .css, .js, les fonts, ainsi que les images.
+
 
 ## **Utilisation**
 
