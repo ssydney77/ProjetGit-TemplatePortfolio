@@ -14,6 +14,10 @@ Pour utiliser ce template, il vous suffit de cloner le repo Git :
 git clone https://github.com/nom-du-repo.git
 ```
 
+Une fois le projet cloné, il suffit de vous rendre dans la partie "public > html" pour y retrouver les différentes version du template.
+Vous pouvez également vous rendre dans la partie " public > assets " pour y retrouver les fichiers .css, .js, les fonts, ainsi que les images.
+
+
 ## **Utilisation**
 
 Vous pouvez utiliser ce template pour afficher vos projets personnels ou professionnels en personnalisant les fichiers HTML, CSS et JavaScript fournis. Vous pouvez également ajouter des images et des vidéos pour rendre votre portfolio plus attractif.
