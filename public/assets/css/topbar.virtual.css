@@ -85,13 +85,13 @@
   width: 100%;
   padding-top: 6px;
   padding-bottom: 6px;
-  background-color: rgba(104, 102, 102, 0.8);
+  background-color: rgba(131, 99, 99, 0.8);
   z-index: 99;
 }
 
 .page-home .navbar.floating {
   top: 0;
-  background-color: #343a40;
+  background-color: #1d2329;
 }
 
 .page-home .caption-header {
@@ -373,7 +373,7 @@
 
 
 .page-blog {
-  background-color: #fff;
+  background-color: #818181;
 }
 
 .post-grid {
@@ -436,7 +436,7 @@
 
 
 .page-contact {
-  background-color: #fff;
+  background-color: #818181;
 }
 
 .vg-maps {
